@@ -1,0 +1,7 @@
+﻿  MainForm.cpp
+C:\Users\medve\source\repos\akios_project\MainForm.h(1008,40): warning C4101: e: неиспользованная локальная переменная
+  (компиляция исходного файла "MainForm.cpp")
+  
+C:\Users\medve\source\repos\akios_project\MainForm.h(581): warning C4715: akiosproject::MainForm::isValidExpression: значение возвращается не при всех путях выполнения
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  akios_project.vcxproj -> C:\Users\medve\source\repos\akios_project\x64\Debug\akios_project.exe

@@ -1,0 +1,4 @@
+C:\Users\medve\source\repos\akios_project\x64\Debug\akios_project.vcxproj.AssemblyReference.cache
+C:\Users\medve\source\repos\akios_project\x64\Debug\akiosproject.MainForm.resources
+C:\Users\medve\source\repos\akios_project\x64\Debug\akios_project.vcxproj.GenerateResource.cache
+C:\Users\medve\source\repos\akios_project\x64\Debug\akios_project.exe
